@@ -5,6 +5,6 @@ multiscript is a free hub for all of the best scripts for any game (increasing s
  *we provide protection through gateways so that no script can infect your device*
  current games:
  * guts and blackpowder
- phantom forces
- arsenal
- FRONTLINES
+ * phantom forces
+ * arsenal
+ * FRONTLINES
