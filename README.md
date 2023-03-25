@@ -8,3 +8,4 @@ multiscript is a free hub for all of the best scripts for any game (increasing s
  * phantom forces
  * arsenal
  * FRONTLINES
+ * doors (+the rooms)
