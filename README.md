@@ -5,7 +5,9 @@ multiscript is a free hub for all of the best scripts for any game (increasing s
  * we provide protection through gateways so that no script can infect your device
 # HOW TO USE
 PASTE IN YOUR EXECUTOR
+```
 loadstring(game:HttpGet(https://raw.githubusercontent.com/sabplay/multiscript/main/loader.lua))();
+```
  * **current games:**
  - [x] guts and blackpowder (ESP ONLY)
  - [ ] phantom forces
