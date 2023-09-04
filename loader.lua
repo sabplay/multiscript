@@ -16,5 +16,5 @@ local gameLinks = {
 if gameLinks[game.PlaceId] ~= nil then
     loadstring(game:HttpGet(gameLinks[game.PlaceId]))()
 else
-    warn("Pickle Hub is not supported in this game.")
+    warn("MultiScript is not supported in this game ")
 end
